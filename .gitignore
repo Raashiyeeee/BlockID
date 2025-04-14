@@ -54,3 +54,7 @@ next-env.d.ts
 real_mintID.js
 real_mintIDCard.js
 mint_id_patch.txt
+
+node_modules/
+.env
+*.log
