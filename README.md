@@ -1,6 +1,6 @@
 # BlockID - Blockchain Identity Management
 
-A decentralized identity management system built on Ethereum blockchain using Next.js, Hardhat, and IPFS.
+A decentralized identity management system built on Ethereum blockchain using Next.js, React, and IPFS.
 
 ## Getting Started
 
